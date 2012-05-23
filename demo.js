@@ -1,3 +1,3 @@
 $(document).ready(function() {
-	$('ul').parallax();
+	$('div#parallax').parallax();
 })
