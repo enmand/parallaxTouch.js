@@ -1,11 +1,1 @@
 html,body,ul{margin:0;padding:0;}
-
-ul {
-	position: absolute;
-	list-style: none;
-	list-style-type: none;
-}
-
-ul li {
-	position: absolute;
-}
