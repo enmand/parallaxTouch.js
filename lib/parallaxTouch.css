@@ -1,0 +1,23 @@
+html,body,ul{margin:0;padding:0;}
+
+ul {
+	position: absolute;
+	list-style: none;
+	list-style-type: none;
+}
+
+ul li {
+	position: absolute;
+}
+
+ul li:first-child {
+	background-image: url('../demo/1.png');
+}
+
+ul li:nth-child(2) {
+	background-image: url('../demo/2.png');
+}
+
+ul li:last-child {
+	background-image: url('../demo/3.png');
+}
