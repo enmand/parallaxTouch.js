@@ -31,7 +31,7 @@ parallax base.  Images should be numbered from 0 in the `data-src`
 ```html
 <div id="parallax" width="IMAGE_WIDTH" height="IMAGE_HEIGHT">
 	<div></div>
-	<dqiv></div>
+	<div></div>
 	<div></div>
 </div>
 ```
